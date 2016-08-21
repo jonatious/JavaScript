@@ -1,0 +1,2 @@
+Few scripts were not mine. I modified most of the code to my preferences and fixed bugs.
+Most of the scripts are not written from scratch.
